@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Message after rebase.
 =======
 
@@ -12,3 +13,6 @@ dev分支第一条信息
 
 dev第二条信息
 >>>>>>> 281b9bf (dev第二条信息.)
+=======
+New txt file.
+>>>>>>> 10d0600 (add readnme.txt)
